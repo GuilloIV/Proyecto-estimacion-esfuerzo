@@ -17,13 +17,11 @@ Proyecto de estimación de esfuerzo de software mediante regresión lineal simpl
 
 ```
 Proyecto-estimacion-esfuerzo/
-├── analisis_esfuerzo.py          # Script principal (genera todas las figuras)
-├── 429.csv                       # Dataset A — 429 proyectos
-├── 45.csv                        # Dataset B —  45 proyectos
-├── reporte.tex                   # Documento LaTeX del reporte
+├── analisis_esfuerzo.py          #
+├── 429.csv                     
+├── 45.csv                        
 ├── Figures/
-│   └── Logo de la Universidad.png
-└── figuras/                      # Generada automáticamente al correr el script
+└── figuras/                      
     ├── hist_A.png
     ├── hist_B.png
     ├── box_A.png
