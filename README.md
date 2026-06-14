@@ -17,7 +17,7 @@ Proyecto de estimación de esfuerzo de software mediante regresión lineal simpl
 
 ```
 Proyecto-estimacion-esfuerzo/
-├── analisis_esfuerzo.py          #
+├── analisis_esfuerzo.py          
 ├── 429.csv                     
 ├── 45.csv                        
 ├── Figures/
